@@ -46,7 +46,9 @@ Up next:
 
 ## Author
 
-- Grace Castaneda - Full Stack Developer - [Linkedin](https://www.linkedin.com/in/castanedagrace/)
+-  Grace (over45Codes)  - Full Stack Developer - [Linkedin](https://www.linkedin.com/in/castanedagrace/)
+- Software Engineer 🚀 |  A Latina's Self-Taught Development Journey in My Late 40s | Embracing the winding path of growth! 🌱
+
 =======================================================================================================
 
 ### Day 2: Thursday, August 17, 2023
@@ -81,4 +83,46 @@ Up next:
 
 ## Author
 
-- Grace Castaneda - Full Stack Developer - [Linkedin](https://www.linkedin.com/in/castanedagrace/)
+-  Grace (over45Codes)  - Full Stack Developer - [Linkedin](https://www.linkedin.com/in/castanedagrace/)
+- Software Engineer 🚀 |  A Latina's Self-Taught Development Journey in My Late 40s | Embracing the winding path of growth! 🌱
+
+=======================================================================================================
+
+### Day 3: Monday, October 2, 2023
+
+##### (🌱 Growth is a Winding Path, not a Straight Line)
+
+**Today's Project(s) Goals**:
+
+1. Update my 2023 quarterly coding roadmap, including monthly goals. Let's go!
+2. Update my log README.md log
+3. Continue to create new Anki Notes per topic learned
+4. Continue Class #1 The Complete 2023 Web Development Bootcamp online
+5. Continue 100Devs Course Class #1 HTML - The Basics - As supplementary
+6. Continue 100Devs Course Class #3 HTML - Even More Basics - As supplementary
+7. Continue Class #2 - The Git & Github Bootcamp on Udemy
+8. Update Daily Coding Study Planner To-dos 
+
+Today's Progress:
+
+- 1 hr of coding.
+- Updated my quarterly coding goals
+- Updated my Daily Coding Study Planner To-dos
+- Went over HMTL lists in Class #1 The Complete 2023 Web Development Bootcamp online
+- Updated my log README.md log
+
+
+## Thoughts:
+
+1. Always remember: “Code every day”, “Simplicity is the soul of efficiency.” – Austin Freeman
+
+Up next:
+
+1. Will create weekly blogs and post them on Hashnode (@https://hashnode.com/@over45Codes) --> coming soon! 
+
+**Link to work**: Updated code-chronicles-23 README.md log file. Please see link ([README.md](https://github.com/over45Codes/code-chronicles-23/blob/main/README.md))
+
+## Author
+
+-  Grace (over45Codes)  - Full Stack Developer - [Linkedin](https://www.linkedin.com/in/castanedagrace/)
+- Software Engineer 🚀 |  A Latina's Self-Taught Development Journey in My Late 40s | Embracing the winding path of growth! 🌱
