@@ -49,7 +49,7 @@ Up next:
 -  Grace (over45Codes)  - Full Stack Developer - [Linkedin](https://www.linkedin.com/in/castanedagrace/)
 - Software Engineer 🚀 |  A Latina's Self-Taught Development Journey in My Late 40s | Embracing the winding path of growth! 🌱
 
-=======================================================================================================
+====================================================================
 
 ### Day 2: Thursday, August 17, 2023
 
@@ -86,7 +86,7 @@ Up next:
 -  Grace (over45Codes)  - Full Stack Developer - [Linkedin](https://www.linkedin.com/in/castanedagrace/)
 - Software Engineer 🚀 |  A Latina's Self-Taught Development Journey in My Late 40s | Embracing the winding path of growth! 🌱
 
-=======================================================================================================
+====================================================================
 
 ### Day 3: Monday, October 2, 2023
 
@@ -127,9 +127,9 @@ Up next:
 -  Grace (over45Codes)  - Full Stack Developer - [Linkedin](https://www.linkedin.com/in/castanedagrace/)
 - Software Engineer 🚀 |  A Latina's Self-Taught Development Journey in My Late 40s | Embracing the winding path of growth! 🌱
 
-=======================================================================================================
+====================================================================
 
-### Day 4: Tursday, October 5, 2023
+### Day 4: Thursday, October 5, 2023
 
 ##### (🌱 Growth is a Winding Path, not a Straight Line)
 
@@ -160,6 +160,38 @@ Today's Progress:
 Up next:
 
 1. Will create weekly blogs and post them on Hashnode (@https://hashnode.com/@over45Codes) --> coming soon! 
+
+**Link to work**: Updated code-chronicles-23 README.md log file. Please see link ([README.md](https://github.com/over45Codes/code-chronicles-23/blob/main/README.md))
+
+## Author
+
+-  Grace (over45Codes)  - Full Stack Developer - [Linkedin](https://www.linkedin.com/in/castanedagrace/)
+- Software Engineer 🚀 |  A Latina's Self-Taught Development Journey in My Late 40s | Embracing the winding path of growth! 🌱
+
+====================================================================
+
+### Day 5: Friday, October 6, 2023
+
+##### (🌱 Growth is a Winding Path, not a Straight Line)
+
+**Today's Project(s) Goals**:
+
+1. Update my log README.md log
+2. Create my fist blog and post this on Hashnode (@https://hashnode.com/@over45Codes)!
+
+Today's Progress:
+
+- Learned more about posting a blog in hashnode
+- Created my fist blog and post this on Hashnode (@https://over45codes.hashnode.dev/how-i-started-my-coding-journey-in-my-late-40s)!
+
+
+## Thoughts:
+
+1. Always remember: “Code every day”, “Simplicity is the soul of efficiency.” – Austin Freeman
+
+Up next:
+
+1. Code!
 
 **Link to work**: Updated code-chronicles-23 README.md log file. Please see link ([README.md](https://github.com/over45Codes/code-chronicles-23/blob/main/README.md))
 
