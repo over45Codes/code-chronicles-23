@@ -198,4 +198,45 @@ Up next:
 ## Author
 
 -  Grace (over45Codes)  - Full Stack Developer - [Linkedin](https://www.linkedin.com/in/castanedagrace/)
-- Software Engineer 🚀 |  A Latina's Self-Taught Development Journey in My Late 40s | Embracing the winding path of growth! 🌱
+- Software Engineer 🚀 | 🌮 A Latina's Self-Taught Development Journey in My Late 40s 🇲🇽 | Embracing the winding path of growth! 🌱
+
+====================================================================
+
+### Day 6: Tuesday, October 9, 2023
+
+##### (🌱 Growth is a Winding Path, not a Straight Line)
+
+**Today's Project(s) Goals**:
+
+1. Update my log README.md log
+2. Continue to create new Anki Notes per topic learned
+3. Continue Class #1 The Complete 2023 Web Development Bootcamp online
+4. Continue 100Devs Course Class #1 HTML - The Basics - As supplementary
+5. Continue 100Devs Course Class #3 HTML - Even More Basics - As supplementary
+6. Continue Class #2 - The Git & Github Bootcamp on Udemy
+7. Update Daily Coding Study Planner To-dos 
+8. Starting #100DaysofCode... Let's go 
+9. Post on Twitter for the next 100 days! 
+
+Today's Progress:
+
+- 3 hrs of coding.
+- Updated my Daily Coding Study Planner To-dos
+- Class #1 The Complete 2023 Web Development Bootcamp online
+- Updated my log README.md log
+- Posted on Twitter #100DaysofCode! Update my log README.md log
+
+## Thoughts:
+
+1. Always remember: “Code every day”, “Simplicity is the soul of efficiency.” – Austin Freeman
+
+Up next:
+
+1. Code!
+
+**Link to work**: Updated code-chronicles-23 README.md log file. Please see link ([README.md](https://github.com/over45Codes/code-chronicles-23/blob/main/README.md))
+
+## Author
+
+-  Grace (over45Codes)  - Full Stack Developer - [Linkedin](https://www.linkedin.com/in/castanedagrace/)
+- Software Engineer 🚀 | 🌮 A Latina's Self-Taught Development Journey in My Late 40s 🇲🇽 | Embracing the winding path of growth! 🌱
